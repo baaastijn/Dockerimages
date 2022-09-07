@@ -1,1 +1,7 @@
+transformers
+torch
+pyctcdecode
+pypi-kenlm
+spleeter
 gradio
+random2
