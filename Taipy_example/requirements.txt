@@ -1,0 +1,4 @@
+taipy
+scikit-learn
+statsmodels
+pandas
